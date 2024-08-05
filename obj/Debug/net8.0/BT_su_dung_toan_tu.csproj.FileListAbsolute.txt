@@ -1,0 +1,14 @@
+C:\Codegym\BT_su_dung_toan_tu\bin\Debug\net8.0\BT_su_dung_toan_tu.exe
+C:\Codegym\BT_su_dung_toan_tu\bin\Debug\net8.0\BT_su_dung_toan_tu.deps.json
+C:\Codegym\BT_su_dung_toan_tu\bin\Debug\net8.0\BT_su_dung_toan_tu.runtimeconfig.json
+C:\Codegym\BT_su_dung_toan_tu\bin\Debug\net8.0\BT_su_dung_toan_tu.dll
+C:\Codegym\BT_su_dung_toan_tu\bin\Debug\net8.0\BT_su_dung_toan_tu.pdb
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.AssemblyInfoInputs.cache
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.AssemblyInfo.cs
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.csproj.CoreCompileInputs.cache
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.dll
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\refint\BT_su_dung_toan_tu.dll
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.pdb
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\BT_su_dung_toan_tu.genruntimeconfig.cache
+C:\Codegym\BT_su_dung_toan_tu\obj\Debug\net8.0\ref\BT_su_dung_toan_tu.dll
